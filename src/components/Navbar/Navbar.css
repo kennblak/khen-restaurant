@@ -17,7 +17,7 @@
   width: 150px;
 }
 
-.app_navbar-links {
+.app__navbar-links {
   flex: 1;
   display: flex;
   justify-content: center;
